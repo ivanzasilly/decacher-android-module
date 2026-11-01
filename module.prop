@@ -1,6 +1,6 @@
 id=decacher
 name=Decacher
-version=2
-versionCode=2
+version=3
+versionCode=3
 author=ivanzasilly
 description=A no-reboot background cache cleaner
