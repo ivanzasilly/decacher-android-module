@@ -15,4 +15,4 @@ decacher-android-module/build.sh
 1. Navigate to the module manager
 2. Select the built `decacher.zip`
 
-No reboot required, `customize.sh` automatically starts the daemon. Uninstalling the module stops it.
+No reboot required, `customize.sh` automatically starts the daemon. `uninstall.sh` stops it.
