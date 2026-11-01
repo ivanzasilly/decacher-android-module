@@ -7,8 +7,9 @@ A no-reboot background cache cleaner. Works in UIDs 0, 2000 and 1000.
 
 ```bash
 git clone https://github.com/ivanzasilly/decacher-android-module.git
-chmod +x decacher-android-module/build.sh
-decacher-android-module/build.sh
+cd decacher-android-module
+chmod +x build.sh
+./build.sh
 ```
 
 # Install module
