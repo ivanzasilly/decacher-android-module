@@ -10,6 +10,7 @@ git clone https://github.com/ivanzasilly/decacher-android-module.git
 cd decacher-android-module
 chmod +x build.sh
 ./build.sh
+
 ```
 
 # Install module
