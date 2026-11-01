@@ -1,4 +1,4 @@
 #!/system/bin/sh
-MODDIR=${0%/*}
-sh "$MODDIR/main.sh" stop
-rm -f /data/local/tmp/decacher
+
+pkill -9 -f "pm trim-caches" 2>/dev/null
+rm -rf "/data/local/tmp/decacher"
