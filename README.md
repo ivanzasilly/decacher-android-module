@@ -1,7 +1,5 @@
 # Decacher
-A no-reboot background cache cleaner. Works in UIDs 0, 2000 and 1000.
-
-`main.sh` works standalone, other files are helpers.
+A no-reboot background cache cleaner. Works as root and shell.
 
 # Build module
 
@@ -16,6 +14,6 @@ chmod +x build.sh
 # Install module
 
 1. Navigate to the module manager
-2. Select the built `decacher.zip`
+2. Select the built `decacher.zip` and install
 
 No reboot required, `customize.sh` automatically starts the daemon. `uninstall.sh` stops it.
